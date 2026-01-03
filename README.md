@@ -318,8 +318,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Neha Erigidindla**
 
 - GitHub: [@Neha-Erigidindla](https://github.com/Neha-Erigidindla)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- Email: nehaerigidindla@gmail.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/neha-erigidindla-8000a9252)
 - Project Link: [Movie Recommendation System](https://github.com/Neha-Erigidindla/Movie-Recommendation-System-)
 
 ---
@@ -328,8 +328,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you want to learn more about recommendation systems and NLP:
 
-- [Recommendation Systems Tutorial](https://www.coursera.org/learn/recommender-systems)
-- [Natural Language Processing with Python](https://www.nltk.org/book/)
+- [Recommendation Systems](https://www.geeksforgeeks.org/machine-learning/what-are-recommender-systems)
+- [Natural Language Processing with Python](https://tjzhifei.github.io/resources/NLTK.pdf)
 - [Scikit-learn Documentation](https://scikit-learn.org/)
 - [Streamlit Documentation](https://docs.streamlit.io/)
 
