@@ -5,7 +5,9 @@ Unlock Your Next Favorite Film! Our NLP-powered Movie Recommendation Web App del
 Our Movie Recommender System, built using Python and Natural Language Processing (NLP), offers a user-friendly way to discover your next favorite movie. We utilize the bag-of-words concept to generate movie recommendations based on factors like similarity, tags, genre, and production company. Additionally, you can access detailed information about each movie and its cast.
 
 ## Try the App
-Explore the Movie Recommender System yourself! Our app is deployed on Streamlit. Click the link below to get started: Movie Recommender System App
+Explore the Movie Recommender System yourself! Our app is deployed on Streamlit.
+Click the link below to get started: **[Movie Recommender System App](https://movie-recommender-syst.streamlit.app/)**
+[Movie Recommender System App](https://your-app-link.streamlit.app)**
 
 ## Installation Guide
 Follow these steps to set up and run the application:
